@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Good+to+see+you+here+Lets+Learn!)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=mkumar9009&label=PROFILE+VIEWS
+![](https://komarev.com/ghpvc/?username=mkumar9009&label=PROFILE+VIEWS)
 
 <!--
 **mkumar9009/mkumar9009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
